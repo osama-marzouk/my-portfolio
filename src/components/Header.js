@@ -10,7 +10,7 @@ const Header = () => {
             <div className='flex flex-col justify-center items-center bg-gray-50 pt-28 px-5 lg:px-12 lg:flex-row lg:justify-between lg:mt-16 lg:items-start
             xl:justify-center xl:gap-24' id="home">
                 <div className='mb-10 lg:hidden'>
-                    <img src="./images/mine.png"
+                    <img src="https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1"
                         className='w-52 h-auto rounded-full border-black border-2 animate-[morph_5s_ease-in-out_infinite]'
                         alt="it is me" />
                 </div>
